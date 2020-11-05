@@ -9,6 +9,7 @@ This project contains an automated test suite example for the Login page from th
 * Python 3+ 
 * pip3
 * Chrome webdriver 
+* PyCharm or similar IDE
 
 Check the webdriver documentation:
 - Chrome: https://chromedriver.chromium.org/getting-started
